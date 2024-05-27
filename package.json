@@ -1,0 +1,26 @@
+{
+  "name": "svg-avatar-generator",
+  "version": "1.0.0",
+  "description": "SVG Avatar Generator for NFTs",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [
+    "svg",
+    "avatar",
+    "generator",
+    "nft",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
